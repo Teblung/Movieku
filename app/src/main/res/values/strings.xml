@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movieku</string>
+    <string name="menu_bookmark">Menu Bookmark</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="popular">Popular</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_movie">Image Movie</string>
+    <string name="title">Title</string>
+    <string name="favorite">Favorite</string>
+    <string name="image_splash">Image Splash</string>
+    <string name="there_is_an_error">There is an error</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="vote_count"><b>Vote Count</b>\n%s</string>
+    <string name="popularity"><b>Popularity</b>\n%s</string>
+    <string name="original_language"><b>Original Language</b>\n%s</string>
+    <string name="overview"><b>Overview</b>\n%s</string>
+    <string name="share_up_text">Visit Upcoming %s Movie in Movieku App</string>
+    <string name="share_pop_text">Visit Popular %s Movie in Movieku App</string>
+    <string name="share_up_title">Share this Upcoming Movie</string>
+    <string name="share_pop_title">Share this Popular Movie</string>
+    <string name="message_undo">Undelete previous item?</string>
+    <string name="message_ok">OK</string>
+    <string name="no_bookmark_pop">No Bookmark\non Favorite Popular Movie</string>
+    <string name="no_bookmark_up">No Bookmark\non Favorite Upcoming Movie</string>
+</resources>
